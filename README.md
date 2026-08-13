@@ -6,3 +6,14 @@ This was simply made for my own purposes as I have a script that loads my resour
 
 This mod was tested from 1.20.6 to 1.21.11 on a Linux machine, other OSes should work as well as long as they support the mod loaders this mod uses.
 
+# Support
+| Version | Supported | Mod Version |
+|---------|-----------|-------------|
+| 1.20.x  | ✅ Yes     | 1.0.x       |
+| 1.21.x  | ✅ Yes     | 1.0.x       |
+| 26.1.x  | 🚫 No     | 2.0.x       |
+| 26.2.x  | 🚫 No     | 2.0.x       |
+| 26.3.x* | 🚫 No     | 2.0.x       |
+
+
+\* 26.3 is upcoming, expected to release in a couple of months as of writing
