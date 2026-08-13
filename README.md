@@ -7,6 +7,9 @@ This was simply made for my own purposes as I have a script that loads my resour
 This mod was tested from 1.20.6 to 1.21.11 on a Linux machine, other OSes should work as well as long as they support the mod loaders this mod uses.
 
 # Support
+
+###### "Supported" means that there is a version available, while "Mod Version" is/will be the mod version where it will be compatible.
+
 | Version | Supported | Mod Version |
 |---------|-----------|-------------|
 | 1.20.x  | ✅ Yes     | 1.0.x       |
