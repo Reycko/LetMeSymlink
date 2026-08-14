@@ -9,12 +9,13 @@ This mod was tested throughout all supported versions on a Linux machine, other 
 # Support
 
 ###### "Supported" means that there is a version available, while "Mod Version" is/will be the mod version where it will be compatible.
+###### The table below is for the specific branch that was chosen. The `intro` branch contains a global table.
 
 | Version | Supported | Mod Version |
 |---------|-----------|-------------|
-| 1.20.x  | ✅ Yes     | 1.0.x       |
-| 1.21.x  | ✅ Yes     | 1.0.x       |
-| 26.1.x  | ✅ Yes     | 2.0.x       |
+| 1.20.x  | 🚫 No     | 1.0.x       |
+| 1.21.x  | 🚫 No     | 1.0.x       |
+| 26.1.x  | 🚫 Yes    | 2.0.x       |
 | 26.2.x  | ✅ Yes     | 2.0.x       |
 | 26.3.x* | ✅ Yes**   | 2.0.x       |
 
