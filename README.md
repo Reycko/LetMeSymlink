@@ -9,6 +9,7 @@ This mod was tested from 1.20.6 to 1.21.11 on a Linux machine, other OSes should
 # Support
 
 ###### "Supported" means that there is a version available, while "Mod Version" is/will be the mod version where it will be compatible.
+###### The table below is for the specific branch that was chosen. The intro branch contains a global table.
 
 | Version | Supported | Mod Version |
 |---------|-----------|-------------|
